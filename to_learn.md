@@ -1,5 +1,6 @@
 Things we are learning at SWC
 =============================
+20:23:669
 
 * shell22
 ** ls
@@ -13,3 +14,8 @@ Things we are learning at SWC
 ** Commit messages.
 ** Atomic commits.
 ** push & merge
+** Pull.
+** fetch.
+** branch.
+** merge
+
