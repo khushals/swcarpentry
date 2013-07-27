@@ -1,7 +1,7 @@
 Things we are learning at SWC
 =============================
 
-* shell
+* shell22
 ** ls
 ** cat
 ** pipe
